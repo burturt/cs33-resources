@@ -37,6 +37,14 @@ body {
   text-align: center;
 }
 
+.office-hours ul {
+  list-style: none;
+}
+
+.office-hours {
+  margin: 20px;
+}
+
 .links {
   display: grid;
   grid-template-columns: 1fr 2fr;
